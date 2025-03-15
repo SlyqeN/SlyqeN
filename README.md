@@ -1,6 +1,8 @@
 <div id = "header" align = "center">
   <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE2Z2Ixazk1M2k2dDU4eTRzcDZib3M5ZndxbHB3bW5lamk4eGVyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yvI7NjX9D8REJMTfQs/giphy.gif" width = "300"/>
 </div>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
+
 
 ---
 
@@ -18,18 +20,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**SlyqeN/SlyqeN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
