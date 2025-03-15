@@ -11,7 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
-
+---
 
 ###  🔥My stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SlyqeN&theme=dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
