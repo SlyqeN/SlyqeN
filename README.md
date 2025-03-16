@@ -18,5 +18,5 @@
 ###  🔥My stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SlyqeN&theme=dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlyqeN&show_icons=true&theme=transparent)
 
